@@ -1,6 +1,6 @@
 # Simple_Transformer
 
-A quick guide on how to use.
+A quick guide on how to use the transformer built upon distilgpt2
 
 ## Getting Started
 
@@ -17,9 +17,5 @@ A quick guide on how to use.
    ```
 
 3. Run the code
-
-   ```bash
-   Today is a good example of how the game is built. In order to play it we need to be very careful when we start a game like the
-   ```
 
 4. Enjoy interacting with Simple_Transformer
